@@ -1,2 +1,4 @@
 get the user data...
 process user data
+
+create an avtar for user // added 
